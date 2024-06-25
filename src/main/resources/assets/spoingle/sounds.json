@@ -1,0 +1,43 @@
+{
+  "spoingle_idle": {
+    "subtitle": "subtitles.spoingle.spoingle_idle",
+    "sounds": [
+      "spoingle:spoingle_idle1",
+      "spoingle:spoingle_idle2"
+    ]
+  },
+  "spoingle_hurt": {
+    "subtitle": "subtitles.spoingle.spoingle_hurt",
+    "sounds": [
+      "spoingle:spoingle_hurt",
+      "spoingle:spoingle_hurt1",
+      "spoingle:spoingle_hurt2"
+    ]
+  },
+  "spoingle_death": {
+    "subtitle": "subtitles.spoingle.spoingle_death",
+    "sounds": [
+      "spoingle:spoingle_death"
+    ]
+  },
+  "spoingle_angry": {
+    "subtitle": "subtitles.spoingle.spoingle_angry",
+    "sounds": [
+      "spoingle:spoingle_angry"
+    ]
+  },
+  "spoingle_bucket_fill": {
+    "subtitle": "subtitles.spoingle.spoingle_bucket_fill",
+    "sounds": [
+      "spoingle:spoingle_bucket_fill1",
+      "spoingle:spoingle_bucket_fill2"
+    ]
+  },
+  "spoingle_bucket_empty": {
+    "subtitle": "subtitles.spoingle.spoingle_bucket_empty",
+    "sounds": [
+      "spoingle:spoingle_bucket_empty1",
+      "spoingle:spoingle_bucket_empty2"
+    ]
+  }
+}

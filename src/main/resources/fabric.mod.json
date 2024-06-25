@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "spoingle",
+  "version": "${version}",
+
+  "name": "Spoingle",
+  "description": "I hate modding",
+  "authors": [
+    "TheTaciturnOne - Owner/Dev, Spoingle Modeler",
+    "Yirmiri, BackupCup, MachinePixie - Incredible Artist",
+    "Luxintrus - Sounds"
+  ],
+  "contact": {
+    "My Twitch": "https://www.twitch.tv/thetaciturnone",
+    "My Discord": "https://discord.gg/DZPkZRfCwz"
+  },
+
+  "license": "ARR License",
+
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.thetaciturnone.spoingle.Spoingle"
+    ],
+    "client": [
+      "com.thetaciturnone.spoingle.SpoingleClient"
+    ]
+  },
+  "mixins": [
+    "spoingle.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

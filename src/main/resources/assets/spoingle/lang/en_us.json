@@ -1,0 +1,11 @@
+{
+  "entity.spoingle.spoingle":"Spoingle",
+  "item.spoingle.spoingle_spawn_egg":"Spoingle Spawn Egg",
+  "item.spoingle.spoingle_bucket":"Bucket of Spoingle",
+  "subtitles.spoingle.spoingle_idle": "Spoingle flibs",
+  "subtitles.spoingle.spoingle_hurt": "Spoingle hurts",
+  "subtitles.spoingle.spoingle_angry": "Spoingle is bloodthirsty",
+  "subtitles.spoingle.spoingle_death": "Spoingle murdered",
+  "subtitles.spoingle.spoingle_bucket_fill": "Spoingle is captured",
+  "subtitles.spoingle.spoingle_bucket_empty": "Spoingle is released"
+}
